@@ -7,7 +7,7 @@ This program works. <br>
  Runs on STM32F103C8T6 <br>
  Use a table implementation of a Moore finite state machine to operate <br>
  a traffic light. <br>
- LUONG NGOC PHUONG <br>
+ Truong Viet Hung <br>
  Jan 10th, 2024 <br>
 
  walk button sensor connected to PB5 (1=button pressed) <br>
